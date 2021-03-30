@@ -1,2 +1,3 @@
-# audio-visualizer
-Audio Visualizer
+# Audio Visualizer
+
+audio visualizer using python
